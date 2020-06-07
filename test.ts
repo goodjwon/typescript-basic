@@ -1,8 +1,8 @@
-var Test = (function(){
-    function Test() {
-        console.log('test');
+class Test {
+    constructor() {
     }
-    return Test;
-}());
+}
 
-new Test();
+const a = new Test();
+
+let myName = 'mark';
