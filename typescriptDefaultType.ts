@@ -1,9 +1,9 @@
-class Test {
+class TypescriptDefaultType {
     constructor() {
     }
 }
 
-const ss = new Test();
+const ss = new TypescriptDefaultType();
 
 let myName = 'mark';
 
